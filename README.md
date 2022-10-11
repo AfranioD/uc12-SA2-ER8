@@ -57,12 +57,12 @@ O sistema é executado no VS code através de seu terminal, digitando o seguinte
 
 - dotnet run
 
-# Erros Que Podem Ocorrer:
+# ❌ Erros Que Podem Ocorrer:
 
 - Erro de sintaxe e/ou semântica a ao digitar um comando no terminal;
 
 - Erro na instalação do .NET e/ou do VScode e suas extenções necessárias.
 
-# Contribuidores
+# 👨🏾‍🤝‍👨🏻 Contribuidores
 
 Afrânio Dimas da Silva.
